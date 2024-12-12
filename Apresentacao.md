@@ -2,7 +2,7 @@
 ### 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, com previsão de formatura em dezembro de 2025.
 
 ## 🔍 Focado em Cybersecurity e SQL:
-  ### Estou estudando Cybersecurity e SQL, realizando cursos e adquirindo certificados que comprovam meu conhecimento na área através da plataforma **[DIO](https://www.dio.me)**.
+  ### Estou estudando Cybersecurity e SQL, realizando cursos e adquirindo certificados que comprovam meu conhecimento na área através da plataforma ´´**[DIO](https://www.dio.me)**´´.
 
 ## 💼 Também sou Corretor no Setor Imobiliário: 
   ### Paralelamente aos estudos, atuo como corretor de imóveis, mantendo-me sempre atualizado com novos conhecimentos e certificações.
