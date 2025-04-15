@@ -1,29 +1,14 @@
-<!--
-**ADSLustosa/ADSLustosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 🔍 Focado em Cybersecurity: Estou estudando Cybersecurity, realizando cursos e adquirindo certificados que comprovam meu conhecimento na área através da plataforma **[DIO](https://www.dio.me)**.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Olá, sou João Pedro Lima Lustosa Amorim! 👋 
 
-<center><img src="ChatGPT Image 15 de abr. de 2025, 12_56_35-2.png" width="300" height="300"></center>
+<img src="ChatGPT Image 15 de abr. de 2025, 12_56_35-2.png" width="300" height="300">
 
 ## Um pouco sobre mim... 🚀
 
 Sou um Desenvolvedor em ascensão com foco em Back-End e uma paixão ardente por Cybersecurity. Atualmente, estou trilhando o caminho da Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.
 
-Minha jornada é movida pela busca incessante por conhecimento em segurança da informação, desde a proteção de dados até as complexidades da análise de vulnerabilidades e da defesa cibernética. Sou um eterno aprendiz, absorvendo conhecimento em plataformas como a Digital Innovation One (DIO) e na comunidade Cybersecurity Foco em Sec. [cite: 1, 2, 3]
+Minha jornada é movida pela busca incessante por conhecimento em segurança da informação, desde a proteção de dados até as complexidades da análise de vulnerabilidades e da defesa cibernética. Sou um eterno aprendiz, absorvendo conhecimento em plataformas como a Digital Innovation One (DIO) e na comunidade Cybersecurity Foco em Sec.
 
-Tenho um fascínio especial pela tríade da segurança ofensiva: testes de intrusão, exploração de falhas e análise forense digital. Estou pronto para abraçar oportunidades que me permitam aplicar minhas habilidades em Cybersecurity, construindo um alicerce para ambientes digitais mais seguros e resilientes. [cite: 4, 5]
+Tenho um fascínio especial pela tríade da segurança ofensiva: testes de intrusão, exploração de falhas e análise forense digital. Estou pronto para abraçar oportunidades que me permitam aplicar minhas habilidades em Cybersecurity, construindo um alicerce para ambientes digitais mais seguros e resilientes.
 
 ## 🛠️ Minhas Ferramentas
 
@@ -78,4 +63,4 @@ Dominando o Front-End e explorando o Back-End:
 
 ---
 
-✨  Acredito que a tecnologia pode transformar o mundo!  ✨
+✨  Aprendendo todos os dias para proteger sistemas, identificar falhas e pensar como um atacante. Pronto para mergulhar de cabeça na minha primeira experiência profissional em segurança da informação.  ✨
