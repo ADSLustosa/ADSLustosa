@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center><h1> Olá! Me chamo João Pedro Lustosa. 👋</h1></center>
-<h2> Sejam bem vindos ao meu GITHUB!!!
+<h1> Olá! Me chamo João Pedro Lustosa. 👋</h1>
+<h2> <center> Sejam bem vindos ao meu GITHUB!!! </center>
 <h2>🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, com previsão de formatura em dezembro de 2025.</h2> <br>
 
 
