@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, com previsão de formatura em dezembro de 2025.
 
 
-!<center>[Cybersecuity](https://media.licdn.com/dms/image/v2/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1574956586430?e=2147483647&v=beta&t=faWAY3rdqbrJ3KRDrREWhTmkIvTYkgOw7_mnz5znMLA) </center>
+![Cybersecuity](https://media.licdn.com/dms/image/v2/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1574956586430?e=2147483647&v=beta&t=faWAY3rdqbrJ3KRDrREWhTmkIvTYkgOw7_mnz5znMLA)
 
 ## 🔍 Focado em Cybersecurity e SQL:
   ### Estou estudando Cybersecurity e SQL, realizando cursos e adquirindo certificados que comprovam meu conhecimento na área através da plataforma **[DIO](https://www.dio.me)**.
