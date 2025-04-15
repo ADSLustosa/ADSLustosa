@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Olá, Mundo! 👋 Eu sou João Pedro Lima Lustosa Amorim
+# Olá, sou João Pedro Lima Lustosa Amorim! 👋 
 
-[![Imagem de Perfil](https://via.placeholder.com/150)](https://github.com/ADSLustosa)  *Substitua com a URL da sua foto ou um avatar*
+![Perfil](<ChatGPT Image 15 de abr. de 2025, 12_56_35-1.png>)  *Substitua com a URL da sua foto ou um avatar*
 
 ## Um pouco sobre mim... 🚀
 
