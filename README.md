@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Olá, sou João Pedro Lima Lustosa Amorim! 👋 
 
-![Perfil](<ChatGPT Image 15 de abr. de 2025, 12_56_35-1.png>)  *Substitua com a URL da sua foto ou um avatar*
+![Perfil](<ChatGPT Image 15 de abr. de 2025, 12_56_35-1.png>, width= 100px, height= 100px) 
 
 ## Um pouco sobre mim... 🚀
 
