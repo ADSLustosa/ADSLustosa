@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <center><h1> Olá! Me chamo João Pedro Lustosa. 👋</h1></center>
 <h2> Sejam bem vindos ao meu GITHUB!!!<h2>
-### 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, com previsão de formatura em dezembro de 2025.
+### 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, com previsão de formatura em dezembro de 2025. <br>
 
 
 ![Cybersecuity](https://media.licdn.com/dms/image/v2/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1574956586430?e=2147483647&v=beta&t=faWAY3rdqbrJ3KRDrREWhTmkIvTYkgOw7_mnz5znMLA)
