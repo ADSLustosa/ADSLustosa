@@ -1,19 +1,3 @@
-### Olá! Me chamo João Pedro Lustosa. 👋
-<!-- Cabeçalhos-->
-
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Títio 6
-
-
-
-
-
-
-
 <!--
 **ADSLustosa/ADSLustosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,11 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Olá! Me chamo João Pedro Lustosa. 👋
+<center><h1> Olá! Me chamo João Pedro Lustosa. 👋</h1></center>
+<center><h2> Sejam bem vindos ao meu GITHUB!!!<h2></center>
 ### 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, com previsão de formatura em dezembro de 2025.
+
+<center>![Cybersecuity](https://media.licdn.com/dms/image/v2/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1574956586430?e=2147483647&v=beta&t=faWAY3rdqbrJ3KRDrREWhTmkIvTYkgOw7_mnz5znMLA) </center>
 
 ## 🔍 Focado em Cybersecurity e SQL:
   ### Estou estudando Cybersecurity e SQL, realizando cursos e adquirindo certificados que comprovam meu conhecimento na área através da plataforma **[DIO](https://www.dio.me)**.
+
+
 
 ## 💼 Também sou Corretor no Setor Imobiliário: 
   ### Paralelamente aos estudos, atuo como corretor de imóveis, mantendo-me sempre atualizado com novos conhecimentos e certificações.
