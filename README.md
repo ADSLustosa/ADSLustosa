@@ -13,69 +13,69 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# João Pedro Lima Lustosa Amorim
+# Olá, Mundo! 👋 Eu sou João Pedro Lima Lustosa Amorim
 
-## Quem Sou
+[![Imagem de Perfil](https://via.placeholder.com/150)](https://github.com/ADSLustosa)  *Substitua com a URL da sua foto ou um avatar*
 
-Olá! Sou João Pedro Lima Lustosa Amorim, um profissional em desenvolvimento com foco em Back-End e um crescente interesse em Cybersecurity. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie. [cite: 1]
+## Um pouco sobre mim... 🚀
 
-Minha paixão por segurança da informação me impulsiona a buscar constantemente aprimoramento em proteção de dados, análise de vulnerabilidades e defesa cibernética. [cite: 2] Sou um entusiasta da aprendizagem contínua, especializando-me através de cursos na Digital Innovation One (DIO) e participando ativamente da comunidade Cybersecurity Foco em Sec. [cite: 3]
+Sou um Desenvolvedor em ascensão com foco em Back-End e uma paixão ardente por Cybersecurity. Atualmente, estou trilhando o caminho da Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.
 
-Tenho um interesse particular em segurança ofensiva, testes de intrusão e análise forense digital. [cite: 4] Busco oportunidades para aplicar minhas habilidades na área de Cybersecurity, colaborando para a criação de ambientes digitais mais seguros e resilientes. [cite: 5]
+Minha jornada é movida pela busca incessante por conhecimento em segurança da informação, desde a proteção de dados até as complexidades da análise de vulnerabilidades e da defesa cibernética. Sou um eterno aprendiz, absorvendo conhecimento em plataformas como a Digital Innovation One (DIO) e na comunidade Cybersecurity Foco em Sec. [cite: 1, 2, 3]
 
-## Contato
+Tenho um fascínio especial pela tríade da segurança ofensiva: testes de intrusão, exploração de falhas e análise forense digital. Estou pronto para abraçar oportunidades que me permitam aplicar minhas habilidades em Cybersecurity, construindo um alicerce para ambientes digitais mais seguros e resilientes. [cite: 4, 5]
 
-* **LinkedIn:** [https://www.linkedin.com/in/adslustosa/](https://www.linkedin.com/in/adslustosa/)
-* **GitHub:** [https://github.com/ADSLustosa](https://github.com/ADSLustosa)
-* **Email:** <[e-mail removido]>
-* **DIO:** [https://www.dio.me/users/asdlustosa](https://www.dio.me/users/asdlustosa)
-* **Telefone:** +55 (88) 98881-9643
+## 🛠️ Minhas Ferramentas
 
-## Formação Acadêmica
-
-### Graduação
-
-* **Análise e Desenvolvimento de Sistemas**
-    * Universidade Presbiteriana Mackenzie
-    * Agosto/2023 - Dezembro/2025 (Previsão)
-
-## Formação Complementar
-
-### Cursos e Bootcamps
-
-* **Python Fundamentals** - DIO (2025) [cite: 6]
-* **Linux Fundamentals** - DIO (2024) [cite: 6]
-* **Programação Lógica** - DIO (2024) [cite: 6]
-* **Bootcamp NEXA**
-    * Machine Learning para Iniciantes (AWS) [cite: 6]
-    * Fundamentos de IAs Generativas e Claude 3 [cite: 6]
-* **Bootcamp Santander 2024**
-    * Fundamentos de IA para Devs [cite: 6]
-
-## Habilidades
-
-Possuo experiência e conhecimento em:
+Dominando o Front-End e explorando o Back-End:
 
 * **Linguagens e Frameworks:**
-    * JavaScript
-    * Python
-    * Java
-    * HTML
-    * CSS
-    * Node.js
-* **Outras Tecnologias e Ferramentas:**
-    * Linux
-    * AWS
-    * Cybersecurity
-    * GitHub
-    * Virtualização de Sistemas
-* **Idiomas:**
-    * Inglês (Intermediário)
+    * `JavaScript` (ES6+) ⚛️
+    * `Python` 🐍
+    * `Java` ☕
+    * `HTML5` 🏷️
+    * `CSS3` 🎨
+    * `Node.js` ⚙️
+* **Outras Tecnologias:**
+    * `Linux` 🐧
+    * `AWS` ☁️
+    * `Cybersecurity` 🛡️
+    * `GitHub` 🐙
+    * `Virtualização de Sistemas` 📦
 
-## Experiência Profissional
+## 💼 Experiência
 
-* **Corretor Imobiliário** - JP Imóveis (Março/2024 - Atual) [cite: 6]
+* **Corretor Imobiliário** - JP Imóveis (Março/2024 - Presente) 🏢
 
-## Publicações e Artigos
+## 📚 Formação
 
-* [PIRATAS DA TECNOLOGIA: Navegando em IAs misteriosas](https://www.dio.me/articles/piratas-da-tecnologia-navegando-em-ias-misteriosas) [cite: 6]
+### Acadêmica
+
+* **Graduação em Análise e Desenvolvimento de Sistemas**
+    * Universidade Presbiteriana Mackenzie
+    * Agosto/2023 - Dezembro/2025 (Previsão) 🎓
+
+### Complementar
+
+* **Cursos e Bootcamps:**
+    * Python Fundamentals - DIO (2025)
+    * Linux Fundamentals - DIO (2024)
+    * Programação Lógica - DIO (2024)
+    * Bootcamp NEXA (Machine Learning para Iniciantes (AWS), Fundamentos de IAs Generativas e Claude 3)
+    * Bootcamp Santander 2024 (Fundamentos de IA para Devs) 🚀
+
+## ✍️ Publicações
+
+* [PIRATAS DA TECNOLOGIA: Navegando em IAs misteriosas](https://www.dio.me/articles/piratas-da-tecnologia-navegando-em-ias-misteriosas) 📰
+
+## 🔗 Conecte-se comigo
+
+* **LinkedIn:** [https://www.linkedin.com/in/adslustosa/](https://www.linkedin.com/in/adslustosa/) 💼
+* **GitHub:** [https://github.com/ADSLustosa](https://github.com/ADSLustosa) 💻
+* **DIO:** [https://www.dio.me/users/asdlustosa](https://www.dio.me/users/asdlustosa) 🎓
+* **Email:** <[e-mail removido]> 📧
+* **Telefone:** +55 (88) 98881-9643 📞
+
+---
+
+✨  Acredito que a tecnologia pode transformar o mundo!  ✨
