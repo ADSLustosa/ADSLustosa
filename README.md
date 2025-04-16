@@ -1,9 +1,5 @@
 # Olá, sou João Pedro Lima Lustosa Amorim! 👋 
 
-![Fontana de Trevi](https://github.com/user-attachments/assets/70e92f7e-2b9c-422d-ade1-2eae939d9487)
-
-
-
 ## Um pouco sobre mim... 🚀
 
 Sou um Desenvolvedor em ascensão com foco em Back-End e uma paixão ardente por Cybersecurity. Atualmente, estou trilhando o caminho da Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.
