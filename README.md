@@ -1,6 +1,6 @@
 # Olá, sou João Pedro Lima Lustosa Amorim! 👋 
 
-<img src="ChatGPT Image 15 de abr. de 2025, 12_56_35-2.png" width="300" height="300">
+<img src="![Fontana di Trevi](https://github.com/user-attachments/assets/547c66e4-d58b-411b-b966-79290119f78e)" width="300" height="300">
 
 ## Um pouco sobre mim... 🚀
 
