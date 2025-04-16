@@ -1,6 +1,7 @@
 # Olá, sou João Pedro Lima Lustosa Amorim! 👋 
 
-<img src= "https://github.com/user-attachments/assets/ca9ea3d9-b76c-44a2-928a-f8d718bab1df)" width="50%">
+![Fontana di Trevi](https://github.com/user-attachments/assets/59a41fdb-bc98-4de2-987e-2154278551de)
+
 
 ## Um pouco sobre mim... 🚀
 
