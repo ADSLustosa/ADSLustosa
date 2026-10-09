@@ -1,4 +1,4 @@
-# Olá, sou João Pedro Lima Lustosa Amorim! 👋 
+# Olá, sou João Pedro Lima Lustosa Amorim! 👋
 
 ## Um pouco sobre mim... 🚀
 
@@ -56,7 +56,6 @@ Dominando o Front-End e explorando o Back-End:
 * **LinkedIn:** [https://www.linkedin.com/in/adslustosa/](https://www.linkedin.com/in/adslustosa/) 💼
 * **GitHub:** [https://github.com/ADSLustosa](https://github.com/ADSLustosa) 💻
 * **DIO:** [https://www.dio.me/users/asdlustosa](https://www.dio.me/users/asdlustosa) 🎓
-* **Email:** <[e-mail removido]> 📧
 * **Telefone:** +55 (88) 98881-9643 📞
 
 ---
